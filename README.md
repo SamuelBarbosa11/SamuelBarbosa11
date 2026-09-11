@@ -1,5 +1,3 @@
-https://github.com/user-attachments/assets/8c03d1e1-5d06-4136-9de9-abf0c52ae021
-
 <div align="center">
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
@@ -115,10 +113,7 @@ alt="GitHub Streak"
 
 <div align="center">
 
-<video controls autoplay muted loop playsinline width="100%">
-  <source src="https://github.com/user-attachments/assets/8c03d1e1-5d06-4136-9de9-abf0c52ae021" type="video/mp4">
-  Seu navegador não suporta a reprodução de vídeos.
-</video>
+https://github.com/user-attachments/assets/8c03d1e1-5d06-4136-9de9-abf0c52ae021
 
 <br/>
 
