@@ -24,7 +24,7 @@ alt="Coding animation"
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=4000&pause=1000&color=07F7F4&center=true&width=800&lines=Sou+o+Samuel+Barbosa+%F0%9F%90%88%E2%80%8D%E2%AC%9B)](https://git.io/typing-svg)
 
-### Full-Stack Developer • Graduante em Ciências da Computação
+### Full-Stack Developer • Graduando em Ciência da Computação
 
 </div>
 
@@ -96,7 +96,7 @@ alt="Coding animation"
 
 ---
 
-## `> Github Estatísticas`
+## `> Estatísticas do GitHub`
 
 <div align="center">
 
@@ -109,17 +109,18 @@ alt="GitHub Streak"
 
 ---
 
-## `> Portifólio`
+## `> Portfólio`
 
 <div align="center">
 
-<video controls autoplay muted loop width="100%">
-  <source src="./assets/video%20preview%20portifolio%20-%20Samuel%20Barbosa.mp4" type="video/mp4">
-  Seu navegador não suporta a reprodução de vídeos.
-</video>
+<a href="https://samuelbarbosa11.github.io/SamuelBarbosa11/" target="_blank" rel="noopener noreferrer">
+  Assistir ao vídeo do portfólio
+</a>
 
-<a href="https://github.com/SamuelBarbosa11/Portifolio-Samuel-Barbosa.git" style="display: inline-block; margin-top: 16px; padding: 10px 20px; border-radius: 8px; background-color: #30363d; color: #ffffff !important; text-decoration: none !important;">
-  <strong>Saiba Mais</strong>
+<br/>
+
+<a href="https://github.com/SamuelBarbosa11/Portifolio-Samuel-Barbosa.git" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/Saiba%20mais-30363d?style=for-the-badge&labelColor=30363d&color=30363d" alt="Saiba mais" />
 </a>
 
 </div>
@@ -128,7 +129,11 @@ alt="GitHub Streak"
 
 ---
 
-## `> Whoami`
+## `> Sobre mim`
+
+Me chamo Samuel Barbosa, estou graduando em Ciência da Computação e sou desenvolvedor full-stack em formação apaixonado por criar experiências digitais modernas, visualmente envolventes e focadas no usuário.
+Trabalho em toda a pilha de desenvolvimento, desde a criação de interfaces frontend intuitivas até a construção de sistemas backend robustos, APIs e arquiteturas de banco de dados. Sigo as melhores práticas do setor, como controle de versão, fluxos de trabalho ágeis e pipelines de CI/CD para fornecer soluções de alta qualidade, sustentáveis e de alto desempenho.
+Tenho um forte senso de design e acredito que grandes produtos digitais são criados na intersecção entre estética, usabilidade e engenharia. Gosto de aprender continuamente, resolver problemas complexos e transformar ideias em soluções digitais impactantes.
 
 ```ts
 const developer = {
@@ -148,7 +153,7 @@ const developer = {
 
 ---
 
-## `> Filosofia de Desenvolvimento`
+## `> Filosofia de desenvolvimento`
 
 Acredito que se tornar um desenvolvedor melhor tem menos a ver com saber tudo
 e mais sobre entender como as coisas funcionam, experimentar e melhorar continuamente.
@@ -159,21 +164,27 @@ e mais sobre entender como as coisas funcionam, experimentar e melhorar continua
 
 <br/>
 
-<div align="center" style="display: flex; justify-content: center; gap: 24px;">
-
-<a href="https://github.com/SamuelBarbosa11">
-  <img src="https://skillicons.dev/icons?i=github" width="50" />
-</a>
-
-<a href="https://www.linkedin.com/in/samuel-miguel-barbosa/">
-  <img src="https://skillicons.dev/icons?i=linkedin" width="50" />
-</a>
-
-<a href="mailto:samuelmbarbosa1107@gmail.com">
-  <img src="https://skillicons.dev/icons?i=gmail" width="50" />
-</a>
-
-</div>
+<table align="center">
+  <tr>
+    <td align="center">
+      <a href="https://github.com/SamuelBarbosa11" target="_blank" rel="noopener noreferrer">
+        <img src="https://skillicons.dev/icons?i=github" width="50" />
+      </a>
+    </td>
+    <td width="24"></td>
+    <td align="center">
+      <a href="https://www.linkedin.com/in/samuel-miguel-barbosa/" target="_blank" rel="noopener noreferrer">
+        <img src="https://skillicons.dev/icons?i=linkedin" width="50" />
+      </a>
+    </td>
+    <td width="24"></td>
+    <td align="center">
+      <a href="mailto:samuelmbarbosa1107@gmail.com" target="_blank" rel="noopener noreferrer">
+        <img src="https://skillicons.dev/icons?i=gmail" width="50" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 <br/><br/>
 
