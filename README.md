@@ -113,9 +113,10 @@ alt="GitHub Streak"
 
 <div align="center">
 
-<a href="https://samuelbarbosa11.github.io/SamuelBarbosa11/" target="_blank" rel="noopener noreferrer">
-  Assistir ao vídeo do portfólio
-</a>
+<video controls autoplay muted loop playsinline width="100%">
+  <source src="https://raw.githubusercontent.com/SamuelBarbosa11/SamuelBarbosa11/main/assets/video%20preview%20portifolio%20-%20Samuel%20Barbosa.mp4" type="video/mp4">
+  Seu navegador não suporta a reprodução de vídeos.
+</video>
 
 <br/>
 
