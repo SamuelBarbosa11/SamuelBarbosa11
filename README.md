@@ -20,6 +20,8 @@ alt="Coding animation"
 
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9be4d344-6782-461a-b5a6-32a07bf7b34e" width="600" alt="animated hello">
 
+<br/>
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=4000&pause=1000&color=07F7F4&center=true&width=800&lines=Sou+o+Samuel+Barbosa+%F0%9F%90%88%E2%80%8D%E2%AC%9B)](https://git.io/typing-svg)
 
 ### Full-Stack Developer • Graduante em Ciências da Computação
@@ -39,7 +41,7 @@ alt="Coding animation"
 <div align="center">
 
 ### Frontend
-  
+
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=react,html,css,tailwind,vite&perline=6" />
@@ -86,6 +88,8 @@ alt="Coding animation"
 
 <div align="center">
 
+<br/>
+
 <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100">
   
 </div>
@@ -105,25 +109,22 @@ alt="GitHub Streak"
 
 ---
 
-## `> Projetos de Destaque`
+## `> Portifólio`
 
 <div align="center">
 
-<a href="https://github.com/SamuelBarbosa11/Portifolio-Samuel-Barbosa">
-  <img
-    src="https://github-readme-stats.vercel.app/api/pin/?username=SamuelBarbosa11&repo=Portifolio-Samuel-Barbosa&theme=dark&hide_border=true&bg_color=0D1117&title_color=FFFFFF&text_color=8B949E&icon_color=FFFFFF"
-    alt="Portifolio"
-  />
-</a>
+<video controls autoplay muted loop width="100%">
+  <source src="./assets/video%20preview%20portifolio%20-%20Samuel%20Barbosa.mp4" type="video/mp4">
+  Seu navegador não suporta a reprodução de vídeos.
+</video>
 
-<a href="https://github.com/SamuelBarbosa11/CampusLoop">
-  <img
-    src="https://github-readme-stats.vercel.app/api/pin/?username=SamuelBarbosa11&repo=CampusLoop&theme=dark&hide_border=true&bg_color=0D1117&title_color=FFFFFF&text_color=8B949E&icon_color=FFFFFF"
-    alt="CampusLoop"
-  />
+<a href="https://github.com/SamuelBarbosa11/Portifolio-Samuel-Barbosa.git" style="display: inline-block; margin-top: 16px; padding: 10px 20px; border-radius: 8px; background-color: #30363d; color: #ffffff !important; text-decoration: none !important;">
+  <strong>Saiba Mais</strong>
 </a>
 
 </div>
+
+<br/>
 
 ---
 
@@ -131,20 +132,15 @@ alt="GitHub Streak"
 
 ```ts
 const developer = {
-  name: "Samuel Barbosa",
-  role: "Full-Stack Developer",
-  focus: [
-    "Web Development",
-    "Mobile Development",
-    "APIs",
-    "Databases"
-  ],
-  currentlyLearning: [
-    "Software Architecture",
-    "Backend Development",
-    "Data Structures"
-  ],
-  mindset: "construindo • aprendendo • melhorando"
+	name: "Samuel Barbosa",
+	role: "Full-Stack Developer",
+	focus: ["Web Development", "Mobile Development", "APIs", "Databases"],
+	currentlyLearning: [
+		"Software Architecture",
+		"Backend Development",
+		"Data Structures",
+	],
+	mindset: "construindo • aprendendo • melhorando",
 };
 ```
 
@@ -161,25 +157,27 @@ e mais sobre entender como as coisas funcionam, experimentar e melhorar continua
 
 ## `> Vamos nos conectar`
 
-<div align="center">
+<br/>
+
+<div align="center" style="display: flex; justify-content: center; gap: 24px;">
 
 <a href="https://github.com/SamuelBarbosa11">
   <img src="https://skillicons.dev/icons?i=github" width="50" />
 </a>
 
-  
-
 <a href="https://www.linkedin.com/in/samuel-miguel-barbosa/">
   <img src="https://skillicons.dev/icons?i=linkedin" width="50" />
 </a>
-
-  
 
 <a href="mailto:samuelmbarbosa1107@gmail.com">
   <img src="https://skillicons.dev/icons?i=gmail" width="50" />
 </a>
 
 </div>
+
+<br/><br/>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 <br/>
 
@@ -193,10 +191,8 @@ width="500"
 alt="Animated footer"
 />
 
-<br/><br/>
+<br/>
 
 <sub>Construído com código, curiosidade e muita depuração.</sub>
 
 </div>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
