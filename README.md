@@ -153,8 +153,18 @@ const developer = {
 
 ## `> Filosofia de desenvolvimento`
 
+<br/>
+
+<div align="center">
+
+<em>
 Acredito que se tornar um desenvolvedor melhor tem menos a ver com saber tudo
 e mais sobre entender como as coisas funcionam, experimentar e melhorar continuamente.
+</em>
+
+</div>
+
+<br/>
 
 ---
 
