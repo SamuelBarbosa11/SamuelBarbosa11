@@ -162,27 +162,19 @@ e mais sobre entender como as coisas funcionam, experimentar e melhorar continua
 
 <br/>
 
-<table align="center">
-  <tr>
-    <td align="center">
-      <a href="https://github.com/SamuelBarbosa11" target="_blank" rel="noopener noreferrer">
-        <img src="https://skillicons.dev/icons?i=github" width="50" />
-      </a>
-    </td>
-    <td width="24"></td>
-    <td align="center">
-      <a href="https://www.linkedin.com/in/samuel-miguel-barbosa/" target="_blank" rel="noopener noreferrer">
-        <img src="https://skillicons.dev/icons?i=linkedin" width="50" />
-      </a>
-    </td>
-    <td width="24"></td>
-    <td align="center">
-      <a href="mailto:samuelmbarbosa1107@gmail.com" target="_blank" rel="noopener noreferrer">
-        <img src="https://skillicons.dev/icons?i=gmail" width="50" />
-      </a>
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <a href="https://github.com/SamuelBarbosa11" target="_blank" rel="noopener noreferrer">
+    <img src="https://skillicons.dev/icons?i=github" width="50" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/samuel-miguel-barbosa/" target="_blank" rel="noopener noreferrer">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="50" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="mailto:samuelmbarbosa1107@gmail.com" target="_blank" rel="noopener noreferrer">
+    <img src="https://skillicons.dev/icons?i=gmail" width="50" />
+  </a>
+</div>
 
 <br/><br/>
 
