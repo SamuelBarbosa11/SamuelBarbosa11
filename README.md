@@ -14,9 +14,13 @@ alt="Coding animation"
 
 <br/>
 
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9be4d344-6782-461a-b5a6-32a07bf7b34e" width="600" alt="animated hello">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=4000&pause=1000&color=35F3EB&center=true&width=800&lines=Ol%C3%A1+eu+sou+o+Samuel+Barbosa+%F0%9F%91%8B)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=4000&pause=1000&color=07F7F4&center=true&width=800&lines=Sou+o+Samuel+Barbosa+%F0%9F%90%88%E2%80%8D%E2%AC%9B)](https://git.io/typing-svg)
 
 ### Full-Stack Developer • Graduante em Ciências da Computação
 
@@ -24,7 +28,106 @@ alt="Coding animation"
 
 ---
 
-## `> whoami`
+## `> Minha Stack`
+
+<div align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100">
+  
+</div>
+
+<div align="center">
+
+### Frontend
+  
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,html,css,tailwind,vite&perline=6" />
+  </a>
+</p>
+
+</div>
+
+<div align="center">
+
+### Backend & Database
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nodejs,express,supabase,postgres,firebase&perline=8" />
+  </a>
+</p>
+
+</div>
+
+<div align="center">
+
+### Linguagens
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=ts,js,java,c,cpp,python&perline=8" />
+  </a>
+</p>
+
+</div>
+
+<div align="center">
+
+### Ferramentas
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,vscode&perline=8" />
+  </a>
+</p>
+
+</div>
+
+<div align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100">
+  
+</div>
+
+---
+
+## `> Github Estatísticas`
+
+<div align="center">
+
+<img
+src="https://github-readme-streak-stats.herokuapp.com/?user=SamuelBarbosa11&theme=dark&hide_border=true&background=0D1117&stroke=30363D&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF"
+alt="GitHub Streak"
+/>
+
+</div>
+
+---
+
+## `> Projetos de Destaque`
+
+<div align="center">
+
+<a href="https://github.com/SamuelBarbosa11/Portifolio-Samuel-Barbosa">
+  <img
+    src="https://github-readme-stats.vercel.app/api/pin/?username=SamuelBarbosa11&repo=Portifolio-Samuel-Barbosa&theme=dark&hide_border=true&bg_color=0D1117&title_color=FFFFFF&text_color=8B949E&icon_color=FFFFFF"
+    alt="Portifolio"
+  />
+</a>
+
+<a href="https://github.com/SamuelBarbosa11/CampusLoop">
+  <img
+    src="https://github-readme-stats.vercel.app/api/pin/?username=SamuelBarbosa11&repo=CampusLoop&theme=dark&hide_border=true&bg_color=0D1117&title_color=FFFFFF&text_color=8B949E&icon_color=FFFFFF"
+    alt="CampusLoop"
+  />
+</a>
+
+</div>
+
+---
+
+## `> Whoami`
 
 ```ts
 const developer = {
@@ -49,107 +152,14 @@ const developer = {
 
 ---
 
-## `> tech stack`
-
-### Frontend
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,html,css,tailwind,vite&perline=6" />
-  </a>
-</p>
-
-### Backend & Database
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,express,supabase,postgres,firebase&perline=8" />
-  </a>
-</p>
-
-### Languages
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,js,java,c,cpp,python&perline=8" />
-  </a>
-</p>
-
-### Tools
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,vscode&perline=8" />
-  </a>
-</p>
-
----
-
-## `> github stats`
-
-<div align="center">
-
-<img
-src="https://github-readme-streak-stats.herokuapp.com/?user=SamuelBarbosa11&theme=dark&hide_border=true&background=0D1117&stroke=30363D&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF"
-alt="GitHub Streak"
-/>
-
-</div>
-
----
-
-## `> featured projects`
-
-<div align="center">
-
-<a href="https://github.com/SamuelBarbosa11/Portifolio-Samuel-Barbosa">
-  <img
-    src="https://github-readme-stats.vercel.app/api/pin/?username=SamuelBarbosa11&repo=Portifolio-Samuel-Barbosa&theme=dark&hide_border=true&bg_color=0D1117&title_color=FFFFFF&text_color=8B949E&icon_color=FFFFFF"
-    alt="Portifolio"
-  />
-</a>
-
-<a href="https://github.com/SamuelBarbosa11/CampusLoop">
-  <img
-    src="https://github-readme-stats.vercel.app/api/pin/?username=SamuelBarbosa11&repo=CampusLoop&theme=dark&hide_border=true&bg_color=0D1117&title_color=FFFFFF&text_color=8B949E&icon_color=FFFFFF"
-    alt="CampusLoop"
-  />
-</a>
-
-</div>
-
----
-
-## `> currently building`
-
-<div align="center">
-
-<img
-src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b"
-width="500"
-alt="Developer animation"
-/>
-
-<br/>
-
-### 🚀 Building projects
-
-### 🧠 Learning new concepts
-
-### 🛠️ Improving my code
-
-</div>
-
----
-
-## `> filosofia de desenvolvimento`
+## `> Filosofia de Desenvolvimento`
 
 Acredito que se tornar um desenvolvedor melhor tem menos a ver com saber tudo
 e mais sobre entender como as coisas funcionam, experimentar e melhorar continuamente.
 
 ---
 
-## `> Vamos nos conectar.`
+## `> Vamos nos conectar`
 
 <div align="center">
 
@@ -178,8 +188,8 @@ e mais sobre entender como as coisas funcionam, experimentar e melhorar continua
 ### `Obrigado por visitar meu perfil!`
 
 <img
-src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7d484dc9-68a9-4ee6-a767-aea59035c12d"
-width="300"
+src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b"
+width="500"
 alt="Animated footer"
 />
 
@@ -188,3 +198,5 @@ alt="Animated footer"
 <sub>Construído com código, curiosidade e muita depuração.</sub>
 
 </div>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
