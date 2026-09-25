@@ -105,6 +105,12 @@ src="https://github-readme-streak-stats.herokuapp.com/?user=SamuelBarbosa11&them
 alt="GitHub Streak"
 />
 
+<img
+    height="300em"
+    src="https://github-stats-extended.vercel.app/api/top-langs?username=SamuelBarbosa11&langs_count=6&theme=dark"
+    alt="Top Languages"
+  />
+
 </div>
 
 ---
